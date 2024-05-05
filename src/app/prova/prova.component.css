@@ -1,0 +1,17 @@
+.example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('/assets/myfoto.jpg');
+    background-size: cover;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa:hover {
+    opacity: 0.7;
+}
+
